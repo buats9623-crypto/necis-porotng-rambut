@@ -1,0 +1,6 @@
+{
+  "name": "Dhoho Barbershop Kediri",
+  "description": "Website resmi dan sistem reservasi layanan pangkas rambut & perawatan pria Dhoho Barbershop Kediri, Jawa Timur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
